@@ -1,0 +1,7 @@
+css / js plugin:
+
+Bootstrap 4.2.1 [Min],
+fontawesome 5.7.0 [SVG][all.min],
+bootstrap.bundle.min [BS,Popper],
+jquery 3.3.1 [min]
+
