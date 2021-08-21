@@ -4,8 +4,9 @@ $(function () {
     var tab_link = $(".navbar .menu .tab .tab-link");
     
     /* Clac My age and set it  (1994 is my birthday year) */
-        // let theYear = new Date().getFullYear();
-        // $('.my_age').text(theYear - 1994);
+        let theYear = new Date().getFullYear();
+        $('.my_age').text(theYear - 1995);
+        $('.thisyear').text(theYear);
     
 
     /*Start Script for tramsition between section*/
